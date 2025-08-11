@@ -1,0 +1,108 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.07.29"]
+[Round "?"]
+[White "bsrvrb"]
+[Black "Vivek004558"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "533"]
+[BlackElo "540"]
+[Termination "bsrvrb won - game abandoned"]
+[ECO "D02"]
+[EndTime "9:04:01 GMT+0000"]
+[Link "https://www.chess.com/game/live/141235782716?move=0"]
+
+1. d4 Nf6 2. Nf3 d5 3. Ne5 Nc6 4. e4 dxe4 5. f4 e6 6. d5 exd5 7. Bb5 Bd6 8. c4
+O-O 9. cxd5 Nxe5 10. fxe5 Bxe5 11. Bg5 h6 12. Bxf6 gxf6 13. Nc3 Bxc3+ 14. bxc3
+Re8 15. Rf1 Bd7 16. Bxd7 Qxd7 17. Rxf6 Qe7 18. Re6 Qh4+ 19. g3 Qxh2 20. Rxe8+
+Rxe8 21. Rb1 e3 22. Qg4+ Kh7 23. Qf5+ Kg8 24. Rxb7 e2 25. Qg4+ Kh7 26. Qf5+ Kg7
+27. Rb1 Qxg3+ 28. Kd2 Qe3+ 29. Kc2 e1=Q 30. Rxe1 Qxe1 31. Qg4+ Kf6 32. Qf4+ Ke7
+33. Qxc7+ Kf6 34. Qf4+ Kg6 35. Qg4+ Kh7 36. Qf5+ Kg7 37. Qg4+ Kf6 38. Qd4+ Kg5
+39. Qg7+ Kh4 40. Qxh6+ Kg4 41. Qg7+ Kf4 42. Qxf7+ Kg3 43. Qg7+ Kh3 44. Qd7+ Kh4
+45. Qh7+ Kg5 46. Qg7+ Kf5 47. Qd7+ Ke5 48. Qxe8+ Kxd5 49. Qxe1 Kc4 50. Qe5 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.07.06"]
+[Round "?"]
+[White "Vivek004558"]
+[Black "king_12346882828186667437"]
+[Result "0-1"]
+[TimeControl "600"]
+[WhiteElo "549"]
+[BlackElo "556"]
+[Termination "king_12346882828186667437 won by checkmate"]
+[ECO "D00"]
+[EndTime "14:26:36 GMT+0000"]
+[Link "https://www.chess.com/game/live/140394016588"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 g6 4. Nb5 Na6 5. Qd3 Bg7 6. Rd1 O-O 7. c3 c5 8. dxc5
+Nxc5 9. Qe3 Ng4 10. Qxc5 d4 11. Nc7 Rb8 12. Rxd4 Bxd4 13. Qxd4 f5 14. Qc4+ Kh8
+15. Ne6 Bxe6 16. Qxe6 Rf6 17. Qc4 Qd7 18. h3 Rd8 19. e3 Qd1# 0-1
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.07.06"]
+[Round "?"]
+[White "Meriadoc67"]
+[Black "Vivek004558"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "571"]
+[BlackElo "557"]
+[Termination "Meriadoc67 won by resignation"]
+[ECO "A01"]
+[EndTime "0:13:46 GMT+0000"]
+[Link "https://www.chess.com/game/live/140374246916"]
+
+1. b3 e5 2. Bb2 Nc6 3. g3 Bc5 4. Bg2 Nf6 5. Nf3 Ng4 6. O-O Qf6 7. d4 exd4 8. Bh3
+Nxh2 9. Nxh2 Qh6 10. Bg2 Ne5 11. Bxd4 Bxd4 12. Qxd4 O-O 13. Qxe5 f6 14. Qxc7 d5
+15. Bxd5+ Kh8 16. Bxb7 Bxb7 17. Qxb7 Rab8 18. Qxa7 Rbc8 19. c4 g6 20. e3 g5 21.
+Nc3 f5 22. Rad1 f4 23. gxf4 gxf4 24. e4 Rg8+ 25. Kh1 Rc5 26. Qxc5 Qe6 27. Qd4+
+Rg7 28. Rg1 1-0
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.06.22"]
+[Round "?"]
+[White "Maulana_zoky"]
+[Black "Vivek004558"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "581"]
+[BlackElo "573"]
+[Termination "Maulana_zoky won by checkmate"]
+[ECO "C40"]
+[EndTime "11:25:48 GMT+0000"]
+[Link "https://www.chess.com/game/live/139875045660"]
+
+1. e4 e5 2. Nf3 Qf6 3. Nc3 Bc5 4. Nd5 Qe6 5. Nxc7+ Ke7 6. Nxe6 dxe6 7. Nxe5 Nf6
+8. d4 Bb6 9. Bg5 h6 10. Bxf6+ gxf6 11. Nc4 e5 12. Nxb6 axb6 13. d5 Nd7 14. Bb5
+Ra5 15. Bxd7 Bxd7 16. d6+ Ke6 17. O-O Rg8 18. b4 Rb5 19. Qd2 Bc6 20. c4 Rxb4 21.
+Qxb4 Bxe4 22. Rfe1 Rxg2+ 23. Kf1 Rg4 24. h3 Bg2+ 25. Ke2 Bxh3 26. Qxb6 Re4+ 27.
+Kd3 Bg2 28. Rxe4 Bxe4+ 29. Kxe4 f5+ 30. Kf3 h5 31. Rd1 h4 32. d7+ Ke7 33. Qd6+
+Kd8 34. Qb8+ Ke7 35. d8=Q+ Ke6 36. Qdd6# 1-0
+
+
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.06.07"]
+[Round "?"]
+[White "Vivek004558"]
+[Black "Mar80ita"]
+[Result "1-0"]
+[TimeControl "600"]
+[WhiteElo "582"]
+[BlackElo "546"]
+[Termination "Vivek004558 won by resignation"]
+[ECO "A40"]
+[EndTime "19:20:20 GMT+0000"]
+[Link "https://www.chess.com/game/live/139329343058"]
+
+1. d4 Nc6 2. Nf3 d6 3. Bg5 f6 4. Bf4 e5 5. dxe5 fxe5 6. Bg5 Qd7 7. Nc3 h6 8. Nd5
+hxg5 9. Nxg5 Nd4 10. Ne4 Qc6 11. c4 Bf5 12. Ng5 Qxc4 13. e4 Nc2+ 14. Kd2 Nxa1
+15. Bxc4 c6 16. Nc7+ Kd7 17. Nxa8 Bg6 18. Qxa1 Nf6 19. Be6+ Ke7 20. f4 Bxe4 21.
+Nxe4 Nxe4+ 22. Ke3 d5 23. Bxd5 cxd5 24. Qc1 d4+ 25. Kf3 g5 26. Kxe4 gxf4 27.
+Kxe5 Bg7+ 28. Kxf4 Rxa8 29. Ke4 Rd8 30. Re1 d3 31. Qc7+ Rd7 32. Kf5+ Be5 33.
+Rxe5+ Kf7 34. Qxd7+ 1-0

@@ -1,0 +1,686 @@
+{
+  "game_1": {
+    "executed": [
+      {
+        "ply": 13,
+        "tactic": "pin",
+        "pinner": "b5",
+        "pinned": "c6"
+      },
+      {
+        "ply": 14,
+        "tactic": "skewer",
+        "attacker": "d6"
+      },
+      {
+        "ply": 17,
+        "tactic": "skewer",
+        "attacker": "c1"
+      },
+      {
+        "ply": 35,
+        "tactic": "skewer",
+        "attacker": "e6"
+      },
+      {
+        "ply": 59,
+        "tactic": "skewer",
+        "attacker": "e1"
+      },
+      {
+        "ply": 63,
+        "tactic": "skewer",
+        "attacker": "f4"
+      },
+      {
+        "ply": 65,
+        "tactic": "skewer",
+        "attacker": "c7"
+      },
+      {
+        "ply": 67,
+        "tactic": "skewer",
+        "attacker": "f4"
+      },
+      {
+        "ply": 95,
+        "tactic": "skewer",
+        "attacker": "e8"
+      }
+    ],
+    "missed": [
+      {
+        "ply": 9,
+        "tactic": "pin",
+        "pinner": "b5",
+        "pinned": "c6"
+      },
+      {
+        "ply": 11,
+        "tactic": "pin",
+        "pinner": "b5",
+        "pinned": "c6"
+      },
+      {
+        "ply": 29,
+        "tactic": "skewer",
+        "attacker": "e8"
+      },
+      {
+        "ply": 56,
+        "tactic": "skewer",
+        "attacker": "e1"
+      },
+      {
+        "ply": 75,
+        "tactic": "skewer",
+        "attacker": "f3"
+      },
+      {
+        "ply": 76,
+        "tactic": "skewer",
+        "attacker": "e5"
+      }
+    ],
+    "allowed": [
+      {
+        "ply": 8,
+        "tactic": "pin",
+        "pinner": "b5"
+      },
+      {
+        "ply": 10,
+        "tactic": "pin",
+        "pinner": "b5"
+      },
+      {
+        "ply": 12,
+        "tactic": "pin",
+        "pinner": "b5"
+      },
+      {
+        "ply": 13,
+        "tactic": "skewer",
+        "attacker": "d6"
+      },
+      {
+        "ply": 15,
+        "tactic": "skewer",
+        "attacker": "d6"
+      },
+      {
+        "ply": 25,
+        "tactic": "skewer",
+        "attacker": "e5"
+      },
+      {
+        "ply": 28,
+        "tactic": "skewer",
+        "attacker": "e8"
+      },
+      {
+        "ply": 55,
+        "tactic": "skewer",
+        "attacker": "e1"
+      },
+      {
+        "ply": 58,
+        "tactic": "skewer",
+        "attacker": "e1"
+      },
+      {
+        "ply": 62,
+        "tactic": "skewer",
+        "attacker": "f3"
+      },
+      {
+        "ply": 64,
+        "tactic": "skewer",
+        "attacker": "c7"
+      },
+      {
+        "ply": 66,
+        "tactic": "skewer",
+        "attacker": "f4"
+      },
+      {
+        "ply": 74,
+        "tactic": "skewer",
+        "attacker": "f3"
+      },
+      {
+        "ply": 75,
+        "tactic": "skewer",
+        "attacker": "e5"
+      },
+      {
+        "ply": 94,
+        "tactic": "skewer",
+        "attacker": "e8"
+      }
+    ]
+  },
+  "game_2": {
+    "executed": [
+      {
+        "ply": 5,
+        "tactic": "skewer",
+        "attacker": "f4"
+      },
+      {
+        "ply": 17,
+        "tactic": "skewer",
+        "attacker": "e3"
+      },
+      {
+        "ply": 30,
+        "tactic": "skewer",
+        "attacker": "e6"
+      },
+      {
+        "ply": 38,
+        "tactic": "skewer",
+        "attacker": "d1"
+      }
+    ],
+    "missed": [
+      {
+        "ply": 10,
+        "tactic": "skewer",
+        "attacker": "f5"
+      },
+      {
+        "ply": 10,
+        "tactic": "skewer",
+        "attacker": "f5"
+      },
+      {
+        "ply": 28,
+        "tactic": "skewer",
+        "attacker": "f7"
+      },
+      {
+        "ply": 37,
+        "tactic": "skewer",
+        "attacker": "d3"
+      }
+    ],
+    "allowed": [
+      {
+        "ply": 4,
+        "tactic": "skewer",
+        "attacker": "f4"
+      },
+      {
+        "ply": 6,
+        "tactic": "skewer",
+        "attacker": "f4"
+      },
+      {
+        "ply": 8,
+        "tactic": "skewer",
+        "attacker": "f4"
+      },
+      {
+        "ply": 10,
+        "tactic": "skewer",
+        "attacker": "f4"
+      },
+      {
+        "ply": 12,
+        "tactic": "skewer",
+        "attacker": "f4"
+      },
+      {
+        "ply": 14,
+        "tactic": "skewer",
+        "attacker": "f4"
+      },
+      {
+        "ply": 16,
+        "tactic": "skewer",
+        "attacker": "f4"
+      },
+      {
+        "ply": 19,
+        "tactic": "skewer",
+        "attacker": "c8"
+      },
+      {
+        "ply": 23,
+        "tactic": "skewer",
+        "attacker": "g7"
+      },
+      {
+        "ply": 25,
+        "tactic": "skewer",
+        "attacker": "c8"
+      },
+      {
+        "ply": 27,
+        "tactic": "skewer",
+        "attacker": "f7"
+      },
+      {
+        "ply": 29,
+        "tactic": "skewer",
+        "attacker": "e6"
+      },
+      {
+        "ply": 29,
+        "tactic": "skewer",
+        "attacker": "b8"
+      },
+      {
+        "ply": 33,
+        "tactic": "skewer",
+        "attacker": "b8"
+      },
+      {
+        "ply": 36,
+        "tactic": "skewer",
+        "attacker": "d3"
+      },
+      {
+        "ply": 37,
+        "tactic": "skewer",
+        "attacker": "d1"
+      }
+    ]
+  },
+  "game_3": {
+    "executed": [
+      {
+        "ply": 5,
+        "tactic": "skewer",
+        "attacker": "h1"
+      },
+      {
+        "ply": 7,
+        "tactic": "skewer",
+        "attacker": "g2"
+      },
+      {
+        "ply": 12,
+        "tactic": "skewer",
+        "attacker": "f6"
+      },
+      {
+        "ply": 15,
+        "tactic": "skewer",
+        "attacker": "h3"
+      },
+      {
+        "ply": 19,
+        "tactic": "skewer",
+        "attacker": "g2"
+      },
+      {
+        "ply": 21,
+        "tactic": "skewer",
+        "attacker": "d4"
+      },
+      {
+        "ply": 21,
+        "tactic": "skewer",
+        "attacker": "d4"
+      },
+      {
+        "ply": 22,
+        "tactic": "pin",
+        "pinner": "d4",
+        "pinned": "f2"
+      },
+      {
+        "ply": 23,
+        "tactic": "skewer",
+        "attacker": "d4"
+      },
+      {
+        "ply": 34,
+        "tactic": "skewer",
+        "attacker": "b8"
+      },
+      {
+        "ply": 54,
+        "tactic": "skewer",
+        "attacker": "g7"
+      }
+    ],
+    "missed": [
+      {
+        "ply": 40,
+        "tactic": "skewer",
+        "attacker": "a8"
+      }
+    ],
+    "allowed": [
+      {
+        "ply": 8,
+        "tactic": "skewer",
+        "attacker": "g2"
+      },
+      {
+        "ply": 11,
+        "tactic": "pin",
+        "pinner": "c5"
+      },
+      {
+        "ply": 13,
+        "tactic": "skewer",
+        "attacker": "f6"
+      },
+      {
+        "ply": 15,
+        "tactic": "skewer",
+        "attacker": "f6"
+      },
+      {
+        "ply": 18,
+        "tactic": "skewer",
+        "attacker": "g2"
+      },
+      {
+        "ply": 20,
+        "tactic": "skewer",
+        "attacker": "d4"
+      },
+      {
+        "ply": 20,
+        "tactic": "skewer",
+        "attacker": "d4"
+      },
+      {
+        "ply": 21,
+        "tactic": "pin",
+        "pinner": "d4"
+      },
+      {
+        "ply": 22,
+        "tactic": "skewer",
+        "attacker": "d4"
+      },
+      {
+        "ply": 27,
+        "tactic": "skewer",
+        "attacker": "c8"
+      },
+      {
+        "ply": 29,
+        "tactic": "skewer",
+        "attacker": "c8"
+      },
+      {
+        "ply": 39,
+        "tactic": "skewer",
+        "attacker": "a8"
+      },
+      {
+        "ply": 53,
+        "tactic": "skewer",
+        "attacker": "g7"
+      },
+      {
+        "ply": 54,
+        "tactic": "pin",
+        "pinner": "d4"
+      },
+      {
+        "ply": 55,
+        "tactic": "skewer",
+        "attacker": "g7"
+      }
+    ]
+  },
+  "game_4": {
+    "executed": [
+      {
+        "ply": 4,
+        "tactic": "skewer",
+        "attacker": "f6"
+      },
+      {
+        "ply": 6,
+        "tactic": "skewer",
+        "attacker": "c5"
+      },
+      {
+        "ply": 8,
+        "tactic": "skewer",
+        "attacker": "e6"
+      },
+      {
+        "ply": 17,
+        "tactic": "pin",
+        "pinner": "g5",
+        "pinned": "f6"
+      },
+      {
+        "ply": 28,
+        "tactic": "skewer",
+        "attacker": "a5"
+      },
+      {
+        "ply": 29,
+        "tactic": "skewer",
+        "attacker": "d7"
+      },
+      {
+        "ply": 34,
+        "tactic": "pin",
+        "pinner": "g8",
+        "pinned": "g2"
+      },
+      {
+        "ply": 43,
+        "tactic": "skewer",
+        "attacker": "e1"
+      },
+      {
+        "ply": 52,
+        "tactic": "skewer",
+        "attacker": "e4"
+      },
+      {
+        "ply": 53,
+        "tactic": "skewer",
+        "attacker": "e1"
+      },
+      {
+        "ply": 55,
+        "tactic": "pin",
+        "pinner": "e4",
+        "pinned": "e5"
+      },
+      {
+        "ply": 69,
+        "tactic": "skewer",
+        "attacker": "d8"
+      }
+    ],
+    "missed": [
+      {
+        "ply": 22,
+        "tactic": "skewer",
+        "attacker": "c7"
+      },
+      {
+        "ply": 38,
+        "tactic": "pin",
+        "pinner": "g6",
+        "pinned": "g2"
+      },
+      {
+        "ply": 47,
+        "tactic": "pin",
+        "pinner": "e4",
+        "pinned": "e5"
+      },
+      {
+        "ply": 50,
+        "tactic": "skewer",
+        "attacker": "e4"
+      },
+      {
+        "ply": 53,
+        "tactic": "skewer",
+        "attacker": "e1"
+      },
+      {
+        "ply": 65,
+        "tactic": "skewer",
+        "attacker": "d8"
+      }
+    ],
+    "allowed": [
+      {
+        "ply": 5,
+        "tactic": "skewer",
+        "attacker": "f6"
+      },
+      {
+        "ply": 21,
+        "tactic": "skewer",
+        "attacker": "c7"
+      },
+      {
+        "ply": 35,
+        "tactic": "pin",
+        "pinner": "g8"
+      },
+      {
+        "ply": 37,
+        "tactic": "pin",
+        "pinner": "g8"
+      },
+      {
+        "ply": 39,
+        "tactic": "pin",
+        "pinner": "g8"
+      },
+      {
+        "ply": 41,
+        "tactic": "pin",
+        "pinner": "g8"
+      },
+      {
+        "ply": 44,
+        "tactic": "skewer",
+        "attacker": "e1"
+      },
+      {
+        "ply": 46,
+        "tactic": "pin",
+        "pinner": "e4"
+      },
+      {
+        "ply": 49,
+        "tactic": "skewer",
+        "attacker": "e4"
+      },
+      {
+        "ply": 52,
+        "tactic": "skewer",
+        "attacker": "e1"
+      },
+      {
+        "ply": 54,
+        "tactic": "pin",
+        "pinner": "e4"
+      },
+      {
+        "ply": 64,
+        "tactic": "skewer",
+        "attacker": "d8"
+      },
+      {
+        "ply": 68,
+        "tactic": "skewer",
+        "attacker": "d8"
+      }
+    ]
+  },
+  "game_5": {
+    "executed": [
+      {
+        "ply": 34,
+        "tactic": "skewer",
+        "attacker": "g6"
+      },
+      {
+        "ply": 61,
+        "tactic": "skewer",
+        "attacker": "c7"
+      }
+    ],
+    "missed": [
+      {
+        "ply": 28,
+        "tactic": "skewer",
+        "attacker": "d4"
+      },
+      {
+        "ply": 56,
+        "tactic": "skewer",
+        "attacker": "h6"
+      }
+    ],
+    "allowed": [
+      {
+        "ply": 13,
+        "tactic": "skewer",
+        "attacker": "f8"
+      },
+      {
+        "ply": 15,
+        "tactic": "skewer",
+        "attacker": "f8"
+      },
+      {
+        "ply": 23,
+        "tactic": "skewer",
+        "attacker": "c6"
+      },
+      {
+        "ply": 27,
+        "tactic": "skewer",
+        "attacker": "d4"
+      },
+      {
+        "ply": 35,
+        "tactic": "skewer",
+        "attacker": "g6"
+      },
+      {
+        "ply": 37,
+        "tactic": "skewer",
+        "attacker": "g6"
+      },
+      {
+        "ply": 39,
+        "tactic": "skewer",
+        "attacker": "g6"
+      },
+      {
+        "ply": 55,
+        "tactic": "skewer",
+        "attacker": "h6"
+      },
+      {
+        "ply": 60,
+        "tactic": "skewer",
+        "attacker": "c7"
+      },
+      {
+        "ply": 62,
+        "tactic": "pin",
+        "pinner": "c7"
+      },
+      {
+        "ply": 64,
+        "tactic": "pin",
+        "pinner": "c7"
+      }
+    ]
+  }
+}
