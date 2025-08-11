@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+import utils.transport
+import utils.session
 import os, sys, json
 import chess, chess.engine, chess.pgn
 
